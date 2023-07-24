@@ -1,0 +1,6 @@
+[submodule "contract"]
+	path = contract
+	url = git@github.com:popudev/hackathon-near-contract.git
+[submodule "website"]
+	path = website
+	url = git@github.com:popudev/hackathon-near-web.git
