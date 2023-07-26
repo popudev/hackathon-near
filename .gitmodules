@@ -4,3 +4,6 @@
 [submodule "website"]
 	path = website
 	url = git@github.com:popudev/hackathon-near-web.git
+[submodule "server"]
+	path = server
+	url = git@github.com:popudev/hackathon-near-server.git
