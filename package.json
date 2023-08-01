@@ -1,0 +1,7 @@
+{
+  "name": "hackathon-near",
+  "private": true,
+  "workspaces": [
+    "types"
+  ]
+}
