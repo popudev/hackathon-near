@@ -7,3 +7,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:popudev/hackathon-near-server.git
+[submodule "types"]
+	path = types
+	url = https://github.com/kidp2h/types
