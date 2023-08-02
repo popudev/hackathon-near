@@ -7,6 +7,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:popudev/hackathon-near-server.git
-[submodule "hackathon-near-types"]
-	path = hackathon-near-types
+[submodule "types"]
+	path = types
 	url = git@github.com:popudev/hackathon-near-types.git
